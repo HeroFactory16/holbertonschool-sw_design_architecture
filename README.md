@@ -1,0 +1,1 @@
+This repo is about working with class, sequence and UML diagrams.
