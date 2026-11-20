@@ -1,0 +1,1 @@
+This folder is about manipulating design patterns.
